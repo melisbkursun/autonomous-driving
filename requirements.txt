@@ -1,0 +1,7 @@
+gymnasium
+highway-env
+torch
+stable-baselines3
+matplotlib
+opencv-python
+
