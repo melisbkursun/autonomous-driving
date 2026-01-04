@@ -4,7 +4,7 @@
 **Course:** Intro to Artificial Intelligence – Applied Reinforcement Learning
 
 ## 🎥 Evolution of Learning
-<!-- evolution.mp4 buraya eklenecek -->
+https://github.com/user-attachments/assets/b9dad784-5c58-44fd-abff-83a3f9edf9e4
 
 ## 🧠 Methodology
 
